@@ -53,7 +53,7 @@ export default function Home() {
               href: "contact"
             }
           ]}
-          imageSrc="https://images.pexels.com/photos/5198144/pexels-photo-5198144.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
+          imageSrc="https://images.pexels.com/photos/1774931/pexels-photo-1774931.jpeg?auto=compress&cs=tinysrgb&h=650&w=940"
           imageAlt="Cozy coffee shop interior"
           imagePosition="right"
         />
